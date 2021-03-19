@@ -1,0 +1,8 @@
+2021-02-28 21:51:22,853:DEBUG:test_Login1:Debug will be displayed
+2021-02-28 21:51:22,853:INFO:test_Login1:Info will be displayed
+2021-02-28 21:51:22,853:CRITICAL:test_Login1:Critical will be displayed
+2021-02-28 21:51:22,853:ERROR:test_Login1:Error will be displayed
+2021-03-02 18:23:57,810:DEBUG:test_Login1:Debug will be displayed
+2021-03-02 18:23:57,824:INFO:test_Login1:Info will be displayed
+2021-03-02 18:23:57,825:CRITICAL:test_Login1:Critical will be displayed
+2021-03-02 18:23:57,825:ERROR:test_Login1:Error will be displayed
